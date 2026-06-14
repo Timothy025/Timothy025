@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timothy025
-- 👀 I’m interested in UI/UX design and Frontend development 
-- 🌱 I’m currently UI/UX Designer
+- 👀 I’m interested in UI/UX and Product design and Frontend development 
+- 🌱 I’m currently Product Designer
 - 💞️ I’m looking to collaborate on Visual Design and UI Design
 - 📫 Reach me jeraldtimothy@gmail.com
 
